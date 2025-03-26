@@ -1,0 +1,5 @@
+name: design_review
+version: 0.0.1
+issueTracker: <link_to_your_issue_tracker.com>
+materialIconCodePoint: '0xe1c0'
+requiresConnection: true
