@@ -2,6 +2,14 @@
 
 package with dev tool extension to compare Figma's UI with developed UI.
 
+## TL;DR
+
+- 🔍 **Compare Figma designs with Flutter UI** by overlaying exported screens.
+- 🛠 **Detect inconsistencies** in padding, alignment, and typography.
+- 🚀 **Improve design validation** and ensure pixel-perfect implementation.
+- 📦 **Works as a DevTools extension** in debug mode.
+- 🎨 **Simple setup**: Add the package, wrap your widget, and upload the Figma image.
+
 ## Problem
 
 Usually, designer creates screens on Figma.
