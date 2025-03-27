@@ -14,11 +14,11 @@ package with dev tool extension to compare Figma's UI with developed UI.
 
 Usually, designer creates screens on Figma.
 
-![figma](../../readme/figma_screen.png)
+![figma](./readme/figma_screen.png)
 
 Then you develop UI based on the Figma screen:
 
-![development](../../readme/developing_screen.png)
+![development](./readme/developing_screen.png)
 
 When you finish, you can ask yourself: **"Whether my design matches Figma? Did I miss any padding?"**.
 
@@ -34,7 +34,7 @@ Then either you or ask your designer to export screen from Figma.
 
 I exported this screen with 3.0 scaling:
 
-![figma_export](../../readme/figma_export.png)
+![figma_export](./readme/figma_export.png)
 
 Start Flutter app debugging.
 Then open [Dev Tools](https://docs.flutter.dev/tools/devtools#start) in browser and find design_review extension on the top panel.
@@ -42,7 +42,7 @@ Then open [Dev Tools](https://docs.flutter.dev/tools/devtools#start) in browser 
 Tap **"select image"** button and select exported image from Figma. Click **"Apply"**.
 It'll look like that:
 
-![result](../../readme/result_screen.png)
+![result](./readme/result_screen.png)
 
 on the result screen we can see that padding matches, but texts are not. In my case I have a bit different fonts in Figma and Flutter app so it showed me an issue and now I know what I missed.
 
