@@ -1,6 +1,6 @@
 name: design_review
 description: 'package with dev tool extension to display your design screenshot above your app and review differences.'
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/olekeke999/design_review
 issue_tracker: https://github.com/olekeke999/design_review/issues
 
