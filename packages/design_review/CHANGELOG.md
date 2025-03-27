@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.2] - just fixed readme file T_T
+
 ## [0.0.1] - Initial Release
 
 ### Added
